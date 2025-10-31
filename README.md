@@ -12,8 +12,8 @@ Completed an end-to-end lab penetration test against Metasploitable 2. Enumerate
 ---
 
 ### Environment 🧪
-- **Target:** Metasploitable 2 VM (10.197.58.26)  
-- **Attacker:** Kali Linux VM (10.197.58.39)  
+- **Target:** Metasploitable 2 VM 
+- **Attacker:** Kali Linux VM  
 - **Scope:** Isolated lab environment (permissioned)
 
 ---
