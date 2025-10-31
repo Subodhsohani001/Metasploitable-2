@@ -1,7 +1,7 @@
 ## Penetration Test: Metasploitable 2 (Educational Lab) — Oct 3, 2025 ⚡
 
 ### TL;DR
-Completed an end-to-end lab penetration test against Metasploitable 2. Enumerated services, found multiple vulnerable services, and exploited the **vsftpd 2.3.4 backdoor** to obtain a root shell. Documented findings, impact, and practical remediation steps. :contentReference[oaicite:1]{index=1}
+Completed an end-to-end lab penetration test against Metasploitable 2. Enumerated services, found multiple vulnerable services, and exploited the **vsftpd 2.3.4 backdoor** to obtain a root shell. Documented findings, impact, and practical remediation steps.
 
 ---
 
