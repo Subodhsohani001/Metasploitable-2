@@ -85,7 +85,7 @@ MIT License — add this exact block to your `LICENSE` file (replace `[YEAR]` an
 ```text
 MIT License
 
-Copyright (c) [YEAR] [FULL NAME OR ORGANIZATION]
+Copyright (c) [2025] [Subodh Sohani/Cyber_subz/Subodhsohani001]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
